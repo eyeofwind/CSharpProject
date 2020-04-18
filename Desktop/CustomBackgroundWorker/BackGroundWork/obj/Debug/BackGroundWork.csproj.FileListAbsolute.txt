@@ -1,0 +1,8 @@
+F:\Work\Helper\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.csproj.CoreCompileInputs.cache
+F:\Work\Helper\BackGroundWork\BackGroundWork\bin\Debug\BackGroundWork.dll
+F:\Work\Helper\BackGroundWork\BackGroundWork\bin\Debug\BackGroundWork.pdb
+F:\Work\Helper\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.dll
+F:\Work\Helper\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.pdb
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.dll
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.pdb

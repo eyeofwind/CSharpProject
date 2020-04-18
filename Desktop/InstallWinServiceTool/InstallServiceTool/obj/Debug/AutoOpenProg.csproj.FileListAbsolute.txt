@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\AutoOpenProg\AutoOpenProg\obj\Debug\AutoOpenProg.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AutoOpenProg\AutoOpenProg\bin\Debug\AutoOpenProg.exe.config
+C:\Users\HP\source\repos\AutoOpenProg\AutoOpenProg\bin\Debug\AutoOpenProg.exe
+C:\Users\HP\source\repos\AutoOpenProg\AutoOpenProg\bin\Debug\AutoOpenProg.pdb
+C:\Users\HP\source\repos\AutoOpenProg\AutoOpenProg\obj\Debug\AutoOpenProg.exe
+C:\Users\HP\source\repos\AutoOpenProg\AutoOpenProg\obj\Debug\AutoOpenProg.pdb
+C:\Users\HP\source\repos\AutoOpenProg\AutoOpenProg\bin\Debug\TestService.exe
+C:\Users\HP\source\repos\AutoOpenProg\AutoOpenProg\bin\Debug\TestService.pdb
+C:\Users\HP\source\repos\AutoOpenProg\AutoOpenProg\bin\Debug\TestService.exe.config
+C:\Users\HP\source\repos\AutoOpenProg\AutoOpenProg\obj\Debug\AutoOpenProg.csproj.CopyComplete

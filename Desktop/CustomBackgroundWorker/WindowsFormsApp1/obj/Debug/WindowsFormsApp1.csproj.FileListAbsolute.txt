@@ -1,0 +1,24 @@
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\bin\Debug\BackGroundWork.dll
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\bin\Debug\BackGroundWork.pdb
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\bin\Debug\BackGroundWork.dll
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\bin\Debug\BackGroundWork.pdb
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Ligy Git Code\BackGroundWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

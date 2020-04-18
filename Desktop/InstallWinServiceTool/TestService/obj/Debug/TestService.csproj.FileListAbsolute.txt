@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\AutoOpenProg\TestService\bin\Debug\TestService.exe.config
+C:\Users\HP\source\repos\AutoOpenProg\TestService\bin\Debug\TestService.exe
+C:\Users\HP\source\repos\AutoOpenProg\TestService\bin\Debug\TestService.pdb
+C:\Users\HP\source\repos\AutoOpenProg\TestService\obj\Debug\TestService.ProjectInstaller.resources
+C:\Users\HP\source\repos\AutoOpenProg\TestService\obj\Debug\TestService.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AutoOpenProg\TestService\obj\Debug\TestService.exe
+C:\Users\HP\source\repos\AutoOpenProg\TestService\obj\Debug\TestService.pdb

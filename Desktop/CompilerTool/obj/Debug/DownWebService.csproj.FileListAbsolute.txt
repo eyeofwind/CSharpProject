@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\TestWebService\DownWebService\bin\Debug\DownWebService.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\TestWebService\DownWebService\bin\Debug\DownWebService.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TestWebService\DownWebService\bin\Debug\DownWebService.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\TestWebService\DownWebService\obj\Debug\DownWebService.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\TestWebService\DownWebService\obj\Debug\DownWebService.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TestWebService\DownWebService\obj\Debug\DownWebService.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TestWebService\DownWebService\obj\Debug\DownWebService.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\TestWebService\DownWebService\obj\Debug\DownWebService.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TestWebService\DownWebService\obj\Debug\DownWebService.pdb

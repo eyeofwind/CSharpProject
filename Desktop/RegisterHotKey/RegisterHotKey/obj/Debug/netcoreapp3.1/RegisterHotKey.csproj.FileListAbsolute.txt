@@ -1,0 +1,11 @@
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\bin\Debug\netcoreapp3.1\RegisterHotKey.exe
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\bin\Debug\netcoreapp3.1\RegisterHotKey.deps.json
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\bin\Debug\netcoreapp3.1\RegisterHotKey.runtimeconfig.json
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\bin\Debug\netcoreapp3.1\RegisterHotKey.runtimeconfig.dev.json
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\bin\Debug\netcoreapp3.1\RegisterHotKey.dll
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\bin\Debug\netcoreapp3.1\RegisterHotKey.pdb
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\obj\Debug\netcoreapp3.1\RegisterHotKey.csprojAssemblyReference.cache
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\obj\Debug\netcoreapp3.1\RegisterHotKey.AssemblyInfoInputs.cache
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\obj\Debug\netcoreapp3.1\RegisterHotKey.AssemblyInfo.cs
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\obj\Debug\netcoreapp3.1\RegisterHotKey.dll
+F:\Ligy Git Code\RegisterHotKey\RegisterHotKey\obj\Debug\netcoreapp3.1\RegisterHotKey.pdb

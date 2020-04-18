@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\TestFtp\TestFtp\bin\Debug\TestFtp.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\TestFtp\TestFtp\bin\Debug\TestFtp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TestFtp\TestFtp\bin\Debug\TestFtp.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\TestFtp\TestFtp\obj\Debug\TestFtp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\TestFtp\TestFtp\obj\Debug\TestFtp.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TestFtp\TestFtp\obj\Debug\TestFtp.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TestFtp\TestFtp\obj\Debug\TestFtp.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\TestFtp\TestFtp\obj\Debug\TestFtp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TestFtp\TestFtp\obj\Debug\TestFtp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestFtp\TestFtp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestFtp\TestFtp\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,16 @@
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\bin\Debug\BackGroundWork.dll
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\bin\Debug\BackGroundWork.pdb
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\obj\Debug\CusBackGroundWork.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.dll
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.pdb
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\obj\Debug\CusBackGroundWork.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.Properties.Resources.resources
+C:\Users\HP\Downloads\BooStudioLLC.8ZipLite_b6e429xa66pga!App\已解压 (2)\BackGroundWork\BackGroundWork\BackGroundWork\obj\Debug\Unitl.CusProgressForm.resources
+F:\Ligy Git Code\BackGroundWork\BackGroundWork\bin\Debug\BackGroundWork.dll
+F:\Ligy Git Code\BackGroundWork\BackGroundWork\bin\Debug\BackGroundWork.pdb
+F:\Ligy Git Code\BackGroundWork\BackGroundWork\obj\Debug\CusBackGroundWork.csprojAssemblyReference.cache
+F:\Ligy Git Code\BackGroundWork\BackGroundWork\obj\Debug\Unitl.CusProgressForm.resources
+F:\Ligy Git Code\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.Properties.Resources.resources
+F:\Ligy Git Code\BackGroundWork\BackGroundWork\obj\Debug\CusBackGroundWork.csproj.GenerateResource.cache
+F:\Ligy Git Code\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.dll
+F:\Ligy Git Code\BackGroundWork\BackGroundWork\obj\Debug\BackGroundWork.pdb
