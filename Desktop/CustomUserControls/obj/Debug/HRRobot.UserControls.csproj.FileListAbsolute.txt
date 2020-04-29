@@ -1,0 +1,10 @@
+C:\Program Files\YALONG\SolidCenter\Program\Locallib\HRRobot.UserControls.dll
+C:\Program Files\YALONG\SolidCenter\Program\Locallib\HRRobot.UserControls.pdb
+C:\Github Code\RobotCenter\UserInterface\Common\HRRobot.UserControls\obj\Debug\HRRobot.CustomControls.CircularWithNum.resources
+C:\Github Code\RobotCenter\UserInterface\Common\HRRobot.UserControls\obj\Debug\HRRobot.CustomControls.CustomConnect.resources
+C:\Github Code\RobotCenter\UserInterface\Common\HRRobot.UserControls\obj\Debug\HRRobot.UserControls.csproj.GenerateResource.cache
+C:\Github Code\RobotCenter\UserInterface\Common\HRRobot.UserControls\obj\Debug\HRRobot.UserControls.csproj.CoreCompileInputs.cache
+C:\Github Code\RobotCenter\UserInterface\Common\HRRobot.UserControls\obj\Debug\HRRobot.UserControls.dll
+C:\Github Code\RobotCenter\UserInterface\Common\HRRobot.UserControls\obj\Debug\HRRobot.UserControls.pdb
+C:\Github Code\RobotCenter\UserInterface\Common\HRRobot.UserControls\obj\Debug\HRRobot.CustomControls.EditText.resources
+C:\Github Code\RobotCenter\UserInterface\Common\HRRobot.UserControls\obj\Debug\HRRobot.UserControls.csprojAssemblyReference.cache
