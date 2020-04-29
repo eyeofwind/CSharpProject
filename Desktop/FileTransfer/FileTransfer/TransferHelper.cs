@@ -16,27 +16,32 @@ namespace FileTransfer
         {
             try
             {
-                string sFolderSrcName = Path.GetFileName(sFolderSrc);
-
-                string sNewFolder = Path.Combine(sFolderTg , sFolderSrcName);
-                if (!Directory.Exists(sNewFolder))
-                {
-                    Directory.CreateDirectory(sNewFolder);
-                }
-
                 string[] arrAllFiles = Directory.GetFileSystemEntries(sFolderSrc);
 
                 foreach (string filePath in arrAllFiles)
                 {
                     string sFileName = Path.GetFileName(filePath);
-                    string sNewPath = Path.Combine(sNewFolder , sFileName);
-                    if (!Directory.Exists(filePath))
+
+                    string sNewPath = Path.Combine(sFolderTg, sFileName);
+
+                    if (File.Exists(filePath))
                     {
-                        File.Copy(filePath , sNewPath);
-                        atWriteLog("已复制到:" + sNewPath);
+                        if (!File.Exists(sNewPath))
+                        {
+                            File.Copy(filePath, sNewPath);
+                            atWriteLog("已复制到:" + sNewPath);
+                        }
                     }
                     else
                     {
+                        string sFolderSrcName = Path.GetFileName(filePath);
+                        string sNewFolder = Path.Combine(sFolderTg, sFolderSrcName);
+
+                        if (!Directory.Exists(sNewFolder))
+                        {
+                            Directory.CreateDirectory(sNewFolder);
+                        }
+
                         loopFiles(filePath , sNewFolder , atWriteLog);
                     }
                 }
